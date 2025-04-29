@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "name": "practice-react",
   "version": "0.1.0",
   "private": true,
@@ -31,11 +30,9 @@
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"
-    ]
-=======
+    ],
   "dependencies": {
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
->>>>>>> 4a600fbd200d4202a8d1869362aa1ba43730aa8a
   }
 }
